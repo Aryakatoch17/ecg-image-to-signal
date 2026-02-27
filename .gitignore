@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+
+# Dataset (download from PhysioNet)
+ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3/
+
+# Generated data (reproducible via pipeline scripts)
+output/
+preprocessed_data/
+
+# Model weights (too large for GitHub)
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+Thumbs.db
+.DS_Store

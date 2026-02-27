@@ -1,0 +1,12 @@
+torch==2.6.0+cu124
+torchvision==0.21.0+cu124
+torchaudio==2.6.0+cu124
+numpy==2.4.1
+scipy==1.17.0
+pandas==3.0.0
+matplotlib==3.10.8
+opencv-python==4.13.0.90
+pillow==12.1.0
+wfdb==4.3.0
+tqdm==4.67.1
+python-docx==1.1.2
